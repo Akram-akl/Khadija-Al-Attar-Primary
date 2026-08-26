@@ -1,6 +1,6 @@
 -- =====================================================
--- Supabase Schema for برنامج البراء بن مالك
--- Project URL: https://mngfqzkhlfoxmlsjbwyt.supabase.co
+-- Supabase Schema for مسجد خديجة العطار - الابتدائية
+-- Project URL: https://exmnmpjtkltwpaeigkye.supabase.co
 -- =====================================================
 
 -- 1. Students Table
