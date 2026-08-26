@@ -44,16 +44,12 @@ const APP_CONFIG = {
             name: 'حلقة علي بن أبي طالب',
             emoji: '<i data-lucide="star" class="w-6 h-6 inline-block text-emerald-500"></i>'
         },
+        'umar': {
+            name: 'حلقة عمر بن الخطاب',
+            emoji: '<i data-lucide="star" class="w-6 h-6 inline-block text-emerald-500"></i>'
+        },
         'hamza': {
             name: 'حلقة حمزة بن عبد المطلب',
-            emoji: '<i data-lucide="star" class="w-6 h-6 inline-block text-emerald-500"></i>'
-        },
-        'saad': {
-            name: 'حلقة سعد بن معاذ',
-            emoji: '<i data-lucide="star" class="w-6 h-6 inline-block text-emerald-500"></i>'
-        },
-        'bilal': {
-            name: 'حلقة بلال بن رباح',
             emoji: '<i data-lucide="star" class="w-6 h-6 inline-block text-emerald-500"></i>'
         },
         'khalid': {

@@ -622,9 +622,8 @@ VALUES
     ('abubakar', 'auth_passwords', true, '{"teacherPass": "487"}'::jsonb),
     ('ubay',     'auth_passwords', true, '{"teacherPass": "5107"}'::jsonb),
     ('ali',      'auth_passwords', true, '{"teacherPass": "5429"}'::jsonb),
+    ('umar',     'auth_passwords', true, '{"teacherPass": "6631"}'::jsonb),
     ('hamza',    'auth_passwords', true, '{"teacherPass": "6678"}'::jsonb),
-    ('saad',     'auth_passwords', true, '{"teacherPass": "7781"}'::jsonb),
-    ('bilal',    'auth_passwords', true, '{"teacherPass": "7832"}'::jsonb),
     ('khalid',   'auth_passwords', true, '{"teacherPass": "7863"}'::jsonb),
     ('_global',  'master_password', true, '{"password": "779812"}'::jsonb);
 
