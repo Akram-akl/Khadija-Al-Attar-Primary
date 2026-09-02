@@ -625,8 +625,6 @@ INSERT INTO level_settings (level, feature_name, is_enabled, settings)
 VALUES 
     ('abubakar', 'auth_passwords', true, '{"teacherPass": "487"}'::jsonb),
     ('ubay',     'auth_passwords', true, '{"teacherPass": "5107"}'::jsonb),
-    ('ali',      'auth_passwords', true, '{"teacherPass": "5429"}'::jsonb),
-    ('umar',     'auth_passwords', true, '{"teacherPass": "6631"}'::jsonb),
     ('hamza',    'auth_passwords', true, '{"teacherPass": "6678"}'::jsonb),
     ('khalid',   'auth_passwords', true, '{"teacherPass": "7863"}'::jsonb),
     ('_global',  'master_password', true, '{"password": "779812"}'::jsonb);
